@@ -1,0 +1,6 @@
+name: EasyHeal
+version: 1.0-SNAPSHOT
+main: clown.company.easyheal.Main
+api-version: 1.16
+authors: [ Zelly, Asqry ]
+description: Gui based /heal /feed /air plugin
